@@ -1,1 +1,2 @@
-I'm going to try using github for my blog
+I'm going to try using github for my blog.
+Will it be an improvement on wordpress?
